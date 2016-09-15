@@ -1,0 +1,27 @@
+{
+  "name": "heurdist",
+  "version": "0.6.0",
+  "description": "Heuristic Distance/Similarity Between Strings (sift4 and levenshtein distance)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saary/heurdist.git"
+  },
+  "keywords": [
+    "string",
+    "distance",
+    "similarity",
+    "edit",
+    "levenshtein",
+    "sift4"
+  ],
+  "author": "saary",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saary/heurdist/issues"
+  },
+  "homepage": "https://github.com/saary/heurdist#readme"
+}
